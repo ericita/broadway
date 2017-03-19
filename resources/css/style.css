@@ -15,6 +15,10 @@ font-family: Helvetica;
   color: white;
 }
 
+.flatiron h3 {
+  color: white;
+}
+
 h1 {
   font-size: 70px;
   font-weight: bold;
@@ -32,4 +36,18 @@ h3 {
 
 p {
   font-size: 14px;
+}
+
+div#footer {
+  background-color: dimgray;
+}
+
+#footer p, a {
+  font-size: 11px;
+  color: white;
+  text-align: left;
+}
+
+#footer a {
+  font-weight: bold;
 }
